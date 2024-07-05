@@ -15,7 +15,7 @@ There are four 7 segments in FPGA board which represent a point screen (2 seven 
 <h2>How you win?</h2>
 Whenever the player gets 10 points, or it remains untouched by enemies, you win.
 
-<h2>How You loose?</h2>
+<h2>How You lose?</h2>
 Whenever the player gets touched by enemies, you lose.
 
 <h2>Project Details</h2>
